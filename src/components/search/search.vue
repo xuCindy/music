@@ -1,7 +1,7 @@
 <template>
-    <div class="search">
-        search
-    </div>
+  <div class="search">
+    search
+  </div>
 </template>
 
 <script type="text/ecmascript-6">
